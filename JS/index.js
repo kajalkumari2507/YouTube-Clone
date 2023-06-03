@@ -2,10 +2,10 @@ const videoCardContainer = document.querySelector('.home-page-container');
 const searchVideoCard = document.getElementById("serach-video-container");
 
 
-const api_key1 = "AIzaSyDjhd33iSAKyQX_ArnDprrQQp94_OYNnsk";
-const api_key2 = "AIzaSyDjhd33iSAKyQX_ArnDprrQQp94_OYNnsk";
-const api_key3 = "AIzaSyDjhd33iSAKyQX_ArnDprrQQp94_OYNnsk";
-const api_key4 = "AIzaSyDjhd33iSAKyQX_ArnDprrQQp94_OYNnsk";
+const api_key1 = "AIzaSyAM7ko5lUV39Tt-rcyzZ7Zq2EF5S0IuArg";
+const api_key2 = "AIzaSyAM7ko5lUV39Tt-rcyzZ7Zq2EF5S0IuArg";
+const api_key3 = "AIzaSyAM7ko5lUV39Tt-rcyzZ7Zq2EF5S0IuArg";
+const api_key4 = "AIzaSyAM7ko5lUV39Tt-rcyzZ7Zq2EF5S0IuArg";
 
 let video_http = "https://www.googleapis.com/youtube/v3/videos?";
 let channel_http = "https://www.googleapis.com/youtube/v3/channels?";
